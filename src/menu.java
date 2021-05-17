@@ -5,8 +5,6 @@ public class menu {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String TITLE =
-                "\n2910326 Computer Security Coursework\n"+
-                        "by Jordan-Brannan & Nauman Iqbal\n\n"+
                 "\t********************\n"+
                 "\t1. Q1 (Rivest, Shamir, and Adelman) \n" +
                 "\t2. Q2 (Needham-Schroeder Protocol)\n"+
